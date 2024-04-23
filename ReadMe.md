@@ -1,5 +1,6 @@
 # Travel Planner Web App
 The Travel Planner Web App harnesses the power of the Gemini API to craft unique travel itineraries based on user-input criteria. It's built with Streamlit, offering an interactive and user-friendly interface.
+![Screenshot 2024-04-23 155120](https://github.com/Jingyii800/techin510-lab05/assets/112589476/7824f336-f883-46e6-94ae-3a71e343b54c)
 
 ## Features
 - Custom Itineraries: Enter group size, destination, dates, and budget to generate a travel plan.
@@ -12,14 +13,13 @@ The Travel Planner Web App harnesses the power of the Gemini API to craft unique
 ```
 git clone 
 pip install -r requirements.txt
-streamlit run travel_planner.py
 ```
-- Change the Gemini API key in env if you want to use your own API key.
+- Change the Gemini API key in .env if you want to use your own API key.
 - Launch the Streamlit app:
 ```
 streamlit run travel_planner.py
 ```
-- Alternatively, access the live app here.
+- Alternatively, access the live app here https://jingyi-travel-planner.streamlit.app/.
 
 ## Lessons Learned
 - API Integration: Mastered the utilization of environmental variables and API configuration for secure and dynamic application behavior.
