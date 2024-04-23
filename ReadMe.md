@@ -1,4 +1,4 @@
-# Travel Planner Web App
+# ✈️Travel Planner Web App
 The Travel Planner Web App harnesses the power of the Gemini API to craft unique travel itineraries based on user-input criteria. It's built with Streamlit, offering an interactive and user-friendly interface.
 ![Screenshot 2024-04-23 155120](https://github.com/Jingyii800/techin510-lab05/assets/112589476/7824f336-f883-46e6-94ae-3a71e343b54c)
 
